@@ -1,0 +1,17 @@
+#info {
+	color: blue ;
+	font-style: bold; 
+	size:50px
+}
+#aboutme {
+	color: rgb(20, 245, 245) ;
+	font-style: italic; 
+	size: 30px
+}
+#background {
+	background-color: lightpink;
+	border-style: dashed;
+	border-width: thick;
+	border-color: #ef25ef;
+	text-align: center;
+}
